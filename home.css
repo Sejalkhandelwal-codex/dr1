@@ -1,0 +1,19 @@
+.home-banner{
+    align-items: center;
+}
+
+.home-banner .banner-title{
+    color:  linear-gradient(96.14deg, #3A8EF6 -10.84%, #6F3AFA 196.74%);
+    font-weight: 700;
+font-size: 40px;
+line-height: 60px;
+}
+.home-banner .banner-sub{
+    font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #6C87AE;
+}
+.home-banner .right{
+    
+}
